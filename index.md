@@ -14,5 +14,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Namaku Alam](ebook/Namaku Alam.pdf) – Chudori, L. (2023)
 11. [Ronggeng Dukuh Paruk](ebook/Ronggeng Dukuh Paruk.pdf) – Tohari, A. (1982)
 12. [Materi UGC](ebook/Materi UGC.pdf) – Ardelia, R. (2026)
+
+By Rita Ardelia Utami (13040124130070) 
 ---
 *Powered by GitHub Pages*
